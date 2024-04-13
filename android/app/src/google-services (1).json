@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "429171679105",
+    "firebase_url": "https://academic-support-d6882-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "academic-support-d6882",
+    "storage_bucket": "academic-support-d6882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429171679105:android:08c6fd5997d1c607efd280",
+        "android_client_info": {
+          "package_name": "com.academic.support"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429171679105-cc5imepkusidu9er7sriu1utkjgqs0o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlARYnxMpn157mMnWJ5Xq841AMDVnC5Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429171679105-cc5imepkusidu9er7sriu1utkjgqs0o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429171679105-1fsg1uo3hhmqn41rihr86mbs4faqshbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.academic.support"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429171679105:android:2585cb536142754aefd280",
+        "android_client_info": {
+          "package_name": "com.example.calico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429171679105-cc5imepkusidu9er7sriu1utkjgqs0o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlARYnxMpn157mMnWJ5Xq841AMDVnC5Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429171679105-cc5imepkusidu9er7sriu1utkjgqs0o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429171679105-1fsg1uo3hhmqn41rihr86mbs4faqshbs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.academic.support"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
